@@ -52,7 +52,3 @@ console.log("the server is running at port 3000");
 
 
 });
-//apikey
-// f7a18daa702fe947fb2be30fa72bc549-us6
-//list id
-//
