@@ -47,7 +47,7 @@ app.get( "/", function(req,res){
 
     res.sendFile(__dirname + "/signup.html");
 });
-app.listen(process.env.PORT || 3000,function(){
+app.listen(process.env.PORT || 3000c,function(){
 console.log("the server is running at port 3000");
 
 
